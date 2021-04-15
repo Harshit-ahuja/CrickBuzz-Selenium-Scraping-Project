@@ -1,1 +1,1 @@
-# CrickBuzz-Selenium-Scraping-Project
+This project is a Web Scraping Project made using selenium-webdriver and Javascript. It is a multi page scraping activity. For input, it takes matchId and innings, then it scrapes all the data of the entire cricketing career of all the players involved in that innings and stores the data in 'Career.json' file. The code for the same is written in 'multi.js'. The same work is done asynchronously again and the code for that is written in 'AsyncMulti.js'
